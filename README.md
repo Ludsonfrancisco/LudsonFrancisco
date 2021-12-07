@@ -1,11 +1,11 @@
-#** <div align="center"> <strong>Hi 👋, I'm Ludson </strong></div>    
+# <div align="center"> <strong>Hi 👋, I'm Ludson </strong></div>    
 </br>
 
 
-### <div align="left"><strong>Im a Node & React Developer</strong></div>  
+### <div align="center"><strong>Im a Node & React Developer</strong></div>  
 </br>
   
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=ludsonfrancisco&&style=flat-square" align="center" />
 </div>  
 </br>
