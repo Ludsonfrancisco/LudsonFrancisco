@@ -1,29 +1,21 @@
 # <div align="center"> <strong>Hi 👋, I'm Ludson </strong></div>    
-</br>
-
-
+\
 ### <div align="center"><strong>Im a Node & React Developer</strong></div>  
-</br>
   
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ludsonfrancisco&&style=flat-square" align="center" />
 </div>  
 </br>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+
+- 🌱 I’m currently learning <strong>NodeJS, ReactJS, NextJS...</strong>
   
 
-- 🌱 I’m currently learning NodeJS, ReactJS, NextJS...
-  
-
-- ❓ Ask me about NodeJS & ReactJS
+- ❓ Ask me about <strong>NodeJS & ReactJS</strong>
 
 
 - 📫 How to reach me ludsonfrancisco1010@gmail.com
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+    
 
 - 📄 Know about my experiences https://www.linkedin.com/in/ludsonfrancisco/
 
