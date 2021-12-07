@@ -1,11 +1,15 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+Hi 👋, I'm Ludson
 </div>    
+</br>
 
 ### <div align="center"><strong>Im a Node & React Developer</strong></div>  
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</br>
   
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ludsonfrancisco&&style=flat-square" align="center" />
+</div>  
+</br>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
@@ -80,21 +84,3 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ludsonfrancisco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ludsonfrancisco&&style=flat-square" align="center" />
-</div>  
-  
-
