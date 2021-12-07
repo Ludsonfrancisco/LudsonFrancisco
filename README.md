@@ -1,11 +1,8 @@
-<div align="center">
-<strong>Hi 👋, I'm Ludson </strong>
-</div>    
+#** <div align="center"> <strong>Hi 👋, I'm Ludson </strong></div>    
 </br>
 
-<div align="center">Im a Node & React Developer  </div>
 
-### <div align="center"><strong>Im a Node & React Developer</strong></div>  
+### <div align="left"><strong>Im a Node & React Developer</strong></div>  
 </br>
   
 <div align="center">
