@@ -23,7 +23,7 @@
 
 
 ## Connect with me 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ludsonfrancisco/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -41,7 +41,7 @@
 </br>
 
 ### Languages and Tools:
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -65,4 +65,4 @@
 </br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ludsonfrancisco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Ludsonfrancisco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
