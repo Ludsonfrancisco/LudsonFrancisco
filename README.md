@@ -1,5 +1,5 @@
 # <div align="center"> <strong>Hi 👋, I'm Ludson </strong></div>    
-### <div align="center"><strong>Im a Node & React Developer</strong></div>  
+### <div align="center"><strong>I'm a Node & React Developer</strong></div>  
   
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ludsonfrancisco&&style=flat-square" align="center" />
